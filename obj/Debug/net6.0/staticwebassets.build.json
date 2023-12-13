@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AU2S6XNLL86Kso1t5ocDbKoEqZfzgFn3xnYVTTneBZA=",
+  "Source": "GroceriesListApi",
+  "BasePath": "_content/GroceriesListApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
